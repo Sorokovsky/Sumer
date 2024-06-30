@@ -1,0 +1,7 @@
+D:\progects\c#\2 курс\На літо\Task 7\Task 7\bin\Debug\Task 7.exe.config
+D:\progects\c#\2 курс\На літо\Task 7\Task 7\bin\Debug\Task 7.exe
+D:\progects\c#\2 курс\На літо\Task 7\Task 7\bin\Debug\Task 7.pdb
+D:\progects\c#\2 курс\На літо\Task 7\Task 7\obj\Debug\Task 7.csproj.AssemblyReference.cache
+D:\progects\c#\2 курс\На літо\Task 7\Task 7\obj\Debug\Task 7.csproj.CoreCompileInputs.cache
+D:\progects\c#\2 курс\На літо\Task 7\Task 7\obj\Debug\Task 7.exe
+D:\progects\c#\2 курс\На літо\Task 7\Task 7\obj\Debug\Task 7.pdb
