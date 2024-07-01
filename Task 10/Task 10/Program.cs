@@ -1,5 +1,5 @@
 ﻿using System;
-
+// Variant 19
 namespace Task_10
 {
     internal class Program
@@ -7,11 +7,11 @@ namespace Task_10
         static void Main(string[] args)
         {
             int a, b, h = 2;
-            Console.WriteLine("Введіть число a: "); a = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Введіть число b: "); b = Convert.ToInt32(Console.ReadLine());
-            for(int x = 1; x < 8; x += h)
+            Console.Write("Введіть число a: "); a = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Введіть число b: "); b = Convert.ToInt32(Console.ReadLine());
+            for(int x = 0; x < 8; x += h)
             {
-                double y;
+                double y = 0;
                 if(1 <= x && x < 2)
                 {
                     y = a + b * Math.Pow(x, 3);
@@ -24,6 +24,15 @@ namespace Task_10
                 {
                     y = Math.Sqrt(Math.Abs(a + b * Math.Pow(x, 3)));
                 }
+                else if(4 <= x && x < 5)
+                {
+                    y = a * Math.Log(Math.Abs(b + 2 * a * x));
+                }
+                else if(5 <= x && x < 6)
+                {
+                    y = Math.Pow(Math.E, a * Math.Sin(x));
+                }
+                Console.WriteLine("x: " + x + ", y: " + y);
             }
             Console.ReadLine();
         }

@@ -1,0 +1,7 @@
+D:\progects\c#\2 курс\На літо\Task 10\Task 10\bin\Debug\Task 10.exe.config
+D:\progects\c#\2 курс\На літо\Task 10\Task 10\bin\Debug\Task 10.exe
+D:\progects\c#\2 курс\На літо\Task 10\Task 10\bin\Debug\Task 10.pdb
+D:\progects\c#\2 курс\На літо\Task 10\Task 10\obj\Debug\Task 10.csproj.AssemblyReference.cache
+D:\progects\c#\2 курс\На літо\Task 10\Task 10\obj\Debug\Task 10.csproj.CoreCompileInputs.cache
+D:\progects\c#\2 курс\На літо\Task 10\Task 10\obj\Debug\Task 10.exe
+D:\progects\c#\2 курс\На літо\Task 10\Task 10\obj\Debug\Task 10.pdb
