@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Variant 19
 namespace Task_12
 {
     internal class Program
